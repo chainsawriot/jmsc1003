@@ -2,11 +2,11 @@
 Journalism and Media Studies Centre
 The University of Hong Kong
 
-Prepared by Chung-hong Chan (https://github.com/chainsawriot)
+Prepared by Chung-hong Chan (https://github.com/chainsawriot)  chainsawtiney@gmail.com
 
 # Problem Set #2
 
-Analysis of data from census #1
+Analysis of data from census
 
 Dataset : http://www.census2011.gov.hk/en/main-table.html
 
@@ -53,6 +53,33 @@ Using the data from B302 and D303
 (3 marks)
 
 Write a short story (< 200 words) to describe your findings from Task 1-3
+
+## Task 5
+
+(3 marks)
+
+Assuming the proportion of working age population of families with < $6,000 monthly income (*fam6k*) Calculate the Z score and theorectical probability of DCCAs with higher *fam6k* than that of
+
+* Central and Western - University
+* Sham Shui Po - Cheung Sha Wan
+* Yuen Long - Kam Tin
+
+## Task 6
+
+(2 marks)
+
+Using the data from B119
+
+Calculate the following Probabilities
+
+* P(A), where A = {Degree course}
+* P(B), where B = {Hong Kong Chinese}
+* P(C), where C = {Japanese}
+* P(A ∪ B), P(A ∩ B), P(A | B), P(B | A)
+
+(2 marks)
+
+Calculate P(B ∩ C)
 
 # NOTE
 
