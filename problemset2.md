@@ -68,18 +68,7 @@ Assuming the proportion of working age population of families with < $6,000 mont
 
 (2 marks)
 
-Using the data from B119
-
-Calculate the following Probabilities
-
-* P(A), where A = {Degree course}
-* P(B), where B = {Hong Kong Chinese}
-* P(C), where C = {Japanese}
-* P(A ∪ B), P(A ∩ B), P(A | B), P(B | A)
-
-(2 marks)
-
-Calculate P(B ∩ C)
+Calculate the interquartile range of the *fam6k* and calculate the theorectical range with the Z score. Do you agree the distribution of *fam6k* is normally distributed?
 
 # NOTE
 
