@@ -24,8 +24,8 @@ Using the titanic dataset, calcuate the follow probabilities
 
 1. Prob(survived = 0)
 2. Prob(sex = female)
-3. Prob(sex = female) ∪ pclass = 1)
-4. Prob(sex = female) ∩ pclass = 1)
+3. Prob(sex = female ∪ pclass = 1)
+4. Prob(sex = female ∩ pclass = 1)
 5. Prob(sex = female | survived = 1)
 6. Prob(survived = 1 | sex = female)
 7. Prob(pclass = 3 | survived = 1)
