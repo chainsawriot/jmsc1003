@@ -41,6 +41,8 @@ Generate a statistical table from this website
 
 http://cdcf.ugc.edu.hk/cdcf/searchStatSiteReport.do
 
+Select: Student (Headcount)
+
 Type of statistical table: 01
 
 Academic Year: 2008/09 - 2014/15
