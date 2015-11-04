@@ -36,10 +36,13 @@ Source: https://www.hkupop.hku.hk/english/features/jointUrollingSurvey/
 
 Using the Freedom House and Human Development Index data to complete the following table:
 
-|      | countries with electoral democracies | countries with no electoral democracies |
-| mean (standard deviation) of Political Right Index |   |  |
-| mean (standard deviation) of Civil Liberty Index |   |  |
-| mean (standard deviation) of HDI |   |  |
+Link: https://docs.google.com/spreadsheets/d/1AW5ZwFzUHa2hfDjzsVA5NDT6GCkyDv0Gjx0VQttwhuk
+
+|        | countries with electoral democracies | countries with no electoral democracies |
+| ---- | ------------------------------------- | --------------------------------------- | 
+| mean (standard deviation) of Political Right Index |      |    |
+| mean (standard deviation) of Civil Liberty Index |      |    |
+| mean (standard deviation) of HDI |       |     |
 
 Construct a scatterplot of Political Right Index and HDI and calculate the correlation coefficient. Write a short story (< 200 words) about your findings.
 
