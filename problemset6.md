@@ -4,7 +4,7 @@ The University of Hong Kong
 
 Prepared by Chung-hong Chan (https://github.com/chainsawriot)  chainsawtiney@gmail.com
 
-# Problem Set #5
+# Problem Set #6
 
 Conditions for Casuality
 
@@ -24,10 +24,38 @@ A survey on 3,000 randomly selected Hong Kong citizens showed that 80% of the ob
 
 ![chocholate](http://blogs.scientificamerican.com/the-curious-wavefunction/files/2012/11/Screen-Shot-2012-11-20-at-4.46.58-PM1.png)
 
+(source: Messerli FH. NEJM 2012)
+
 A leading academic journal reports a highly significant correlation between a
 nation's per capita chocolate consumption and the rate at which its citizens win No bel Prizes. A famous blogger cites this result and claims that chocolate consumption helps improve human's cognitive function. Do you agree? Explain your answer. If not, state other possible explanations and elaborate your answer.
 
+# Task 3
 
+(4 marks)
+
+Jenna is an investigative journalist and she is studying the discrepancy between the government surplus estimated by the financial secretary and the actual surplus. The following is the estimated surplus and the actual surplus.
+
+| Financial Year | Estimated Surplus (billion HKD) | Actual Surplus (billion HKD) |
+| 97/98 | 317 | 868 |
+| 98/99 | 107 | -232 |
+| 99/00 | -365 | 100 |
+| 00/01 | -62 | -78 |
+| 01/02 | -30 | -633 |
+| 02/03 | -452 | -617 |
+| 03/04 | -679 | -401 |
+| 04/05 | -426 | 214 |
+| 05/06 | -105 | 140 |
+| 06/07 | 56 | 586 |
+| 07/08 | 254 | 1236 |
+| 08/09 | -75 | 14 |
+| 09/10 | -399 | 259 |
+| 10/11 | -252 | 751 |
+| 11/12 | -85 | 667 |
+
+(Source: Hong Kong Government)
+
+1. If the relationship between estimated surplus (x) and actual surplus (y) is represented by linear regression model of y = β1x + β 0 +ε, Find β 1 (slope) and β 0 (intercept). Please interpret the regression coefficients β 1 and β 0.
+2. Suppose the financial secretary estimate the government surplus for this financial year to be -34. Based on the regression model, what is the anticipated actual surplus?
 
 # NOTE
 
