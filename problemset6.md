@@ -36,6 +36,7 @@ nation's per capita chocolate consumption and the rate at which its citizens win
 Jenna is an investigative journalist and she is studying the discrepancy between the government surplus estimated by the financial secretary and the actual surplus. The following is the estimated surplus and the actual surplus.
 
 | Financial Year | Estimated Surplus (billion HKD) | Actual Surplus (billion HKD) |
+| -------------- | ------------------------------- | ---------------------------- |
 | 97/98 | 317 | 868 |
 | 98/99 | 107 | -232 |
 | 99/00 | -365 | 100 |
