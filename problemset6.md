@@ -33,7 +33,7 @@ nation's per capita chocolate consumption and the rate at which its citizens win
 
 (4 marks)
 
-Jenna is an investigative journalist and she is studying the discrepancy between the government surplus estimated by the financial secretary and the actual surplus. The following is the estimated surplus and the actual surplus.
+Jenna is an investigative journalist and she is studying the discrepancy between the government surplus estimated by the financial secretary and the actual surplus. 
 
 | Financial Year | Estimated Surplus (billion HKD) | Actual Surplus (billion HKD) |
 | -------------- | ------------------------------- | ---------------------------- |
@@ -55,7 +55,7 @@ Jenna is an investigative journalist and she is studying the discrepancy between
 
 (Source: Hong Kong Government)
 
-1. If the relationship between estimated surplus (x) and actual surplus (y) is represented by linear regression model of y = β1x + β 0 +ε, Find β 1 (slope) and β 0 (intercept). Please interpret the regression coefficients β 1 and β 0.
+1. If the relationship between estimated surplus (x) and actual surplus (y) is represented by linear regression model of y = β<sub>1</sub>x + β<sub>0</sub> +ε, Find β<sub>1</sub> (slope) and β<sub>0</sub> (intercept). Please interpret the regression coefficients β<sub>1</sub> and β <sub>0</sub>.
 2. Suppose the financial secretary estimate the government surplus for this financial year to be -34. Based on the regression model, what is the anticipated actual surplus?
 
 # NOTE
