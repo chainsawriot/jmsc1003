@@ -39,6 +39,8 @@ In the latest survey, the (effective) sample size is 1008.There are 60.3% of the
 3. Extract all the approval rates of CY Leung from 2015 and Calculate the 95% CI of the above all results (percentage answer "No") and plot them as a line chart. Comment on when did the approval rating of CY Leung changed significantly recently. What happened during that week?
 4. State all the assumptions and conditions on how and why the result from this survey can be used to infer the overall approval rating of CY Leung in the entire Hong Kong population?
 
+LINK TO THE CLEANED DATA: https://docs.google.com/spreadsheets/d/1B-Fw-d2RbvHDQcQ7O9d6Pajg4vgr0H0tuDKrpCJuj5Y/edit?usp=sharing
+
 # NOTE
 
 * Please turn in one single PDF file with your name and your student ID clearly marked. Anything not in PDF (such as docx or xlsx) will not be graded. PDF converted from Excel workbook will not be graded.
