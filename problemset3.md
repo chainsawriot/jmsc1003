@@ -6,44 +6,36 @@ Prepared by Chung-hong Chan (https://github.com/chainsawriot)  chainsawtiney@gma
 
 # Problem Set #3
 
-Contingency table #1 - creating table
+## Task 1
 
-# Problem statement
+(2 marks)
 
-Creating contingency tables, examine relationships among variables and the problems associated with this method
+Using the data from B302 and D303
 
-# Task 1
+* Calculate the proportion of working age population (15-64) with post-secondary education and proportion of families with < $6,000 monthly income **for each DCCA**. Display the results as a graph to show the relationship between education and poverty.
 
-(5 marks)
+## Task 2
 
-* Describe the taste testing experiment in the tutorial. What are the essential elements in such experiment that make it works and state your conclusion from the data analysis.
+(3 marks)
 
-Tips: google - "Allocation concealment", "Randomization"
+Write a short story (< 200 words) to describe your findings from Task 1
 
-(1 marks)
+## Task 3
 
-* Study the difference between population and sample. The data from this experiment is a population or a sample? Why?
+(3 marks)
 
-# Task 2
+Assuming the proportion of working age population of families with < $6,000 monthly income (*fam6k*) Calculate the Z score and theorectical probability of DCCAs with higher *fam6k* than that of
 
-(5 marks)
+* Central and Western - University
+* Sham Shui Po - Cheung Sha Wan
+* Yuen Long - Kam Tin
 
-Suppose the dataset smoking.csv is collected from a cohort study to calculate the 20-year survival rate among smokers and non-smokers. (Appleton et al. 1996)
+## Task 4
 
-Definition of variables:
+(2 marks)
 
-surv: dead within 20 years
-
-smoking: smoking status at the beginning of the study
-
-agegp: age group at the beginning of the study
-
-* Calculate the survival rates of smokers and non-smokers. Describe your findings.
-
-* Based on your analysis, explain your conclusion about smoking and surival rate.
-
-Tips: Google 'Simpson's paradox'
+Calculate the interquartile range of the *fam6k* and calculate the theorectical range with the Z score. Do you agree the distribution of *fam6k* is normally distributed?
 
 # NOTE
 
-* Please turn in one single PDF file with your name and your student ID clearly marked. Anything not in PDF (such as docx or xlsx) will not be graded. PDF converted from Excel workbook will not be graded.
+* Please turn in one single PDF file with your name and your student ID clearly marked. Anything not in PDF (such as docx or xlsx) will not be graded.

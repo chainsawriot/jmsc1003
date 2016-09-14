@@ -8,7 +8,7 @@ Prepared by Chung-hong Chan (https://github.com/chainsawriot)
 
 Investigate the duration of historical rainstorm warnings
 
-Dataset : http://goo.gl/8Uu8tS
+Dataset : http://www.hko.gov.hk/cgi-bin/hko/warndb_e1.pl?opt=3&rcolor=All+colours&start_ym=199803&end_ym=201609&submit=Submit+Query
 
 # Problem Statement
 
