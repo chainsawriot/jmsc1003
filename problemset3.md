@@ -1,4 +1,5 @@
-### JMSC 1003 Statistics for Journalists
+### JMSC 1003 Foundamental of Data Journalism
+
 Journalism and Media Studies Centre
 The University of Hong Kong
 
