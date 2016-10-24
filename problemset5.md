@@ -6,11 +6,11 @@ Prepared by Chung-hong Chan (https://github.com/chainsawriot)  chainsawtiney@gma
 
 # Problem Set #5
 
-Test for independence
+More on conditional probability
 
 # Problem statement
 
-Test for independence between row and column variables
+Bayes' theorem, Simpson's paradox and Test for independence between row and column variables
 
 # Task 1
 
@@ -29,15 +29,24 @@ A: The event of a voter voted for Candidate Anson Chan
 
 M: The event of a voter who had participated in at least one protests
 
-1. Use the notation of conditional probability, what is the 45% in the HKU exit-poll result
-(Among the voters who voted for Anson Chan, 45% of them had participated in at least one protest)?
-
-2. Given a person who voted for Anson Chan is chosen, what is the probability for this person had never participated in any protest?
-3. Given a person who had participated in at least one protests, what is the probability for this person voted for Anson Chan?
-4. Given a person who had never participated in any protest, what is the probability for this person voted for Regina Ip? 
-
+1. Given a person who voted for Anson Chan is chosen, what is the probability for this person had never participated in any protest?
+2. Given a person who had participated in at least one protests, what is the probability for this person voted for Anson Chan?
+3. Given a person who had never participated in any protest, what is the probability for this person voted for Regina Ip? 
 
 # Task 2
+
+(5 marks)
+
+ucbadmissions.csv
+- gender: Female / Male
+- Admission result, res: Rejected / Admitted
+- Department, dep: 1-6 
+
+Based on the UC Berkeley admission data for the fall of 1973, calculate the overall admission rate of the UC Berkeley i.e. P(res = Admitted), the Male and Female admission rate,i.e., P(res = Admitted | gender = Male) and P(res = Admitted | gender = Female).
+
+Do you agree the UC Berkeley admission is bias in favour of men? Explain your anwser.
+
+# Task 3
 
 (4 marks)
 
