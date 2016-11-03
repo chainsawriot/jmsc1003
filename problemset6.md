@@ -6,75 +6,29 @@ Prepared by Chung-hong Chan (https://github.com/chainsawriot)  chainsawtiney@gma
 
 # Problem Set #6
 
-Conditions for Casuality
+Central limit theorem #1
 
 # Problem statement
 
-Test for correlation and casuality
+Simulation of CLT
 
 # Task 1
 
-(3 marks, Exam 2012)
+(5 marks)
 
-A survey on 3,000 randomly selected Hong Kong citizens showed that 80% of the obese respondents spent more than 10 hours on surfing Internet every day. A media report then summarized the finding as "a research study suggests obese people are more likely to be heavy Internet users." Do you agree with this media statement? Explain your answer.
+Excel function RANDBETWEEN() is random number generator that can generate a sequence of (pseudo-)random numbers with uniform distribution. Computer RNG is the essential component of Monte Carlo simulation.
 
-# Task 2
+Using RANDBETWEEN() to simulate flipping 3 coins, 10 coins and 20 coins for 5000 times, plot the probability of face from each trial as a histogram. (i.e. there should be 3 histograms, each for one simulations. The histograms should have the same binning for easy comparison.)
 
-(4 marks, Exam 2012)
-
-![chocholate](http://blogs.scientificamerican.com/the-curious-wavefunction/files/2012/11/Screen-Shot-2012-11-20-at-4.46.58-PM1.png)
-
-(source: Messerli FH. NEJM 2012)
-
-A leading academic journal reports a highly significant correlation between a
-nation's per capita chocolate consumption and the rate at which its citizens win No bel Prizes. A famous blogger cites this result and claims that chocolate consumption helps improve human's cognitive function. Do you agree? Explain your answer. If not, state other possible explanations and elaborate your answer.
-
+Calculate the mean and standard deviation (hint: using STDEVPA) of sample means from 3 simulations. Do they have the same "mean of sample means"? Why do they have different standard deviations? Explain your answer using the Central Limit Theorem.
 
 # Task 2
 
-(4 marks)
+Using the UCBAdmissions.csv dataset. Try the following.
 
-Using the Freedom House and Human Development Index data to complete the following table:
-
-Link: https://docs.google.com/spreadsheets/d/1AW5ZwFzUHa2hfDjzsVA5NDT6GCkyDv0Gjx0VQttwhuk
-
-|        | countries with electoral democracies | countries with no electoral democracies |
-| ---- | ------------------------------------- | --------------------------------------- | 
-| mean (standard deviation) of Political Right Index |      |    |
-| mean (standard deviation) of Civil Liberty Index |      |    |
-| mean (standard deviation) of HDI |       |     |
-
-Construct a scatterplot of Political Right Index and HDI and calculate the correlation coefficient. Write a short story (< 200 words) about your findings.
-
-
-# Task 3
-
-(4 marks)
-
-Jenna is an investigative journalist and she is studying the discrepancy between the government surplus estimated by the financial secretary and the actual surplus. 
-
-| Financial Year | Estimated Surplus (billion HKD) | Actual Surplus (billion HKD) |
-| -------------- | ------------------------------- | ---------------------------- |
-| 97/98 | 317 | 868 |
-| 98/99 | 107 | -232 |
-| 99/00 | -365 | 100 |
-| 00/01 | -62 | -78 |
-| 01/02 | -30 | -633 |
-| 02/03 | -452 | -617 |
-| 03/04 | -679 | -401 |
-| 04/05 | -426 | 214 |
-| 05/06 | -105 | 140 |
-| 06/07 | 56 | 586 |
-| 07/08 | 254 | 1236 |
-| 08/09 | -75 | 14 |
-| 09/10 | -399 | 259 |
-| 10/11 | -252 | 751 |
-| 11/12 | -85 | 667 |
-
-(Source: Hong Kong Government)
-
-1. If the relationship between estimated surplus (x) and actual surplus (y) is represented by linear regression model of y = β<sub>1</sub>x + β<sub>0</sub> +ε, Find β<sub>1</sub> (slope) and β<sub>0</sub> (intercept). Please interpret the regression coefficients β<sub>1</sub> and β <sub>0</sub>.
-2. Suppose the financial secretary estimate the government surplus for this financial year to be -34. Based on the regression model, what is the anticipated actual surplus?
+1. Create random samples of 100, 500 and 1,000 students
+2. Calculate the male and female admission rates for each random sample. Compare it with the whole population from problem set #5.
+3. State the expected results of the sampling distributions of repeating the analysis in 100, 500 and 1,000 randomly selected students for multiple time. What is the practical implication?
 
 # NOTE
 
