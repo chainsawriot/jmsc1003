@@ -31,10 +31,7 @@ The HKUPOP provide the raw data of rating of Chief Executive online.
 
 http://data.hkupop.hku.hk/v3/hkupop/ce2012_leung/en.html
 
-Download the dataset of the 2016-10-24 survey and compare the weighted average of rating between
-
-1. genders
-2. age groups
+Download the dataset of the 2016-10-24 survey and compare the weighted average of rating between genders.
 
 # NOTE
 
