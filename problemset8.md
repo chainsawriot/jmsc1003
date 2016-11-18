@@ -16,7 +16,7 @@ Test for correlation and casuality
 
 (4 marks, Exam 2012)
 
-![chocholate](https://blogs.scientificamerican.com/the-curious-wavefunction/files/2012/11/Screen-Shot-2012-11-20-at-4.46.58-PM1.png)
+![chocholate](http://static5.businessinsider.com/image/5353e29b6da8115322dd4816-480/chocolate-consumption-and-nobel-prize.png)
 
 (source: Messerli FH. NEJM 2012)
 
